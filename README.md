@@ -5,7 +5,8 @@ This project is an interactive Jupyter notebook that uses a language model to an
 ## 📂 Included Files
 
 - `Mini_GPT_Football.ipynb`: The main notebook containing code and explanations.
-- `football_dataset_en`: A dataset with descriptions of football match actions and events.
+- `football_dataset_en.zip`: A zipped dataset with descriptions of football match actions and events (in English).
+- `requirements.txt`: File listing the required Python packages.
 
 ## 🧠 What Does This Project Do?
 
@@ -18,23 +19,29 @@ The notebook follows a pipeline to:
 
 1. Clone this repository or download the files manually.
 2. Make sure you have Python installed with Jupyter Notebook or JupyterLab.
-3. Open the `.ipynb` file in Jupyter.
-4. Before running the notebook, ensure `football_dataset.txt` is in the same folder.
+3. Unzip `football_dataset_en.zip` and place `football_dataset_en.txt` in the same folder as the notebook.
+4. Open `Mini_GPT_Football.ipynb` in Jupyter and run the cells.
 
-You can also download the dataset directly:  
-👉 [Download football_dataset_en.zip](https://github.com/Ag78910/mini-gpt-football/raw/main/football_dataset_en.zip)
+📥 [Download football_dataset_en.zip](https://github.com/Ag78910/mini-gpt-football/raw/main/football_dataset_en.zip)
 
 ## 📋 Requirements
 
-- Python 3.x
-- pandas
-- (Optional) scikit-learn, matplotlib, etc.
-
-Install the dependencies with:
+Install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+The main libraries used include:
+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- nltk
+- spacy
+- jupyter
 
 ## 📜 License
 
