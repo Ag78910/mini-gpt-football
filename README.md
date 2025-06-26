@@ -5,7 +5,7 @@ This project is an interactive Jupyter notebook that uses a language model to an
 ## 📂 Included Files
 
 - `Mini_GPT_Football.ipynb`: The main notebook containing code and explanations.
-- `football_dataset.txt`: A dataset with descriptions of football match actions and events.
+- `football_dataset_en`: A dataset with descriptions of football match actions and events.
 
 ## 🧠 What Does This Project Do?
 
